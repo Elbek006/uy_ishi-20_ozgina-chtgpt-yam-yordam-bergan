@@ -263,3 +263,5 @@ def ogriq_bormi():
             print(qabular.search(word))
 
 ogriq_bormi()
+
+print()
